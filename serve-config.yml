@@ -1,0 +1,4 @@
+database:
+  name: mail
+  username: mail
+  password: mail
